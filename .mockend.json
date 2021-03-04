@@ -1,4 +1,8 @@
 {
+   "Comment": {
+    "body": "string",
+    "post": "Post"
+  },
   "Test": {
     "title": "string",
     "views": "int",
@@ -6,8 +10,4 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
 }
